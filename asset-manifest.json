@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aiglobalmart/static/css/main.8ca87ee2.css",
+    "main.js": "/aiglobalmart/static/js/main.b39f2c66.js",
+    "index.html": "/aiglobalmart/index.html",
+    "main.8ca87ee2.css.map": "/aiglobalmart/static/css/main.8ca87ee2.css.map",
+    "main.b39f2c66.js.map": "/aiglobalmart/static/js/main.b39f2c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca87ee2.css",
+    "static/js/main.b39f2c66.js"
+  ]
+}
